@@ -1,0 +1,10 @@
+server:
+  port: 8762                    # 指定该Eureka实例的端口
+eureka:
+  instance:
+    hostname: eurekaservice2
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://peer1:8761/eureka/
