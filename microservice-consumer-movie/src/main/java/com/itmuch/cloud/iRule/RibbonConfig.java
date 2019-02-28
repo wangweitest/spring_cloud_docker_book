@@ -1,6 +1,7 @@
-package com.itmuch.cloud.study;
+package com.itmuch.cloud.iRule;
 
 
+import com.itmuch.cloud.study.ConsumerMovieApplication;
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.context.annotation.Configuration;
 

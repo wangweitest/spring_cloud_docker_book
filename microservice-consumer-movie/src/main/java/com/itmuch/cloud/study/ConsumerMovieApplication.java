@@ -2,8 +2,6 @@ package com.itmuch.cloud.study;
 
 import com.netflix.loadbalancer.IRule;
 import com.netflix.loadbalancer.RandomRule;
-import com.netflix.loadbalancer.RetryRule;
-import com.netflix.loadbalancer.RoundRobinRule;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
@@ -20,17 +18,14 @@ public class ConsumerMovieApplication {
     return new RestTemplate();
   }
 
-  /**
-   * ribbon 负载均衡的规则
-   * @return
-   */
+  public static void main(String[] args) {
+    SpringApplication.run(ConsumerMovieApplication.class, args);
+  }
+
   @Bean
-  public IRule myRule(){
+  public IRule iRule(){
     return new RandomRule();
   }
 
 
-  public static void main(String[] args) {
-    SpringApplication.run(ConsumerMovieApplication.class, args);
-  }
 }
