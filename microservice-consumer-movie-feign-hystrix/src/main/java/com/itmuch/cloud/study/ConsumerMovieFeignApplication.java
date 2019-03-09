@@ -12,9 +12,9 @@ import org.springframework.context.annotation.Bean;
 @EnableDiscoveryClient
 @SpringBootApplication
 @EnableFeignClients
-public class ConsumerMovieFeignApplication {
+public class ConsumerMovieFeignHystrixApplication {
   public static void main(String[] args) {
-    SpringApplication.run(ConsumerMovieFeignApplication.class, args);
+    SpringApplication.run(ConsumerMovieFeignHystrixApplication.class, args);
   }
 
   @Bean
