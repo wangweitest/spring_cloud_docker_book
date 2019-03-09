@@ -14,7 +14,7 @@ public class MovieController {
   private RestTemplate restTemplate;
 
 //  private static String REST_URL_PREFIX = "http://localhost:8000";
-  private static String REST_URL_PREFIX = "http://MICROSERVICE-PROVIDER-USER";
+  private static String REST_URL_PREFIX = "http://microservice-provider-user";
 
 
   @GetMapping("/user/{id}")

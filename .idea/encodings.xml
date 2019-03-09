@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eureka-server1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix-fallback-factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-feign-hystryx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-consumer-movie-ribbon-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-provider-user1" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-consumer-movie" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-consumer-movie-ribbon" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-discovery-eureka" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-discovery-eureka-ha" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-provider-user" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-provider-user/src/main/java" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-provider-user1" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-simple-consumer-movie" charset="UTF-8" />
+    <file url="file://F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-simple-provider-user" charset="UTF-8" />
+  </component>
+</project>
