@@ -1,3 +1,4 @@
+#这是对profile的测试，在启动spring boot 时可以指定profile
 spring:
   profiles: port8888
 server:
