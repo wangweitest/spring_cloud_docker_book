@@ -11,6 +11,13 @@
         <option value="$PROJECT_DIR$/microservice-consumer-movie-feign/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-feign-hystryx/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-feign-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-provider-user-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-hystrix-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server3-config/pom.xml" />
       </list>
     </option>
   </component>
