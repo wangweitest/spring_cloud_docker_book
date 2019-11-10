@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ac3b208-5685-44ad-b4b6-740a98281a98" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server3-config/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server3-config/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-provider-user1/microservice-provider-user.iml" beforeDir="false" />
     </list>
     <ignored path="F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-simple-provider-user/target/" />
     <ignored path="F:/笔记/2019学习笔记/spring-cloud-docker-microservice-book-code/microservice-simple-consumer-movie/target/" />
@@ -49,35 +47,7 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-server3-config/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-server2/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/eureka-server1/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -226,11 +196,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace_idea\spring_cloud\microservice-config-client" />
       <recent name="F:\workspace_idea\spring_cloud\microservice-config-server\src\main" />
       <recent name="F:\workspace_idea\spring_cloud\microservice-config-server\src\main\resources" />
       <recent name="F:\workspace_idea\spring_cloud\eureka-server1\src\main\resources" />
       <recent name="F:\workspace_idea\spring_cloud\microservice-gateway-zuul\src\main\resources" />
-      <recent name="F:\workspace_idea\spring_cloud" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -447,7 +417,7 @@
       <workItem from="1553405864516" duration="3874000" />
       <workItem from="1561780760803" duration="251000" />
       <workItem from="1572879694237" duration="1701000" />
-      <workItem from="1573381950788" duration="5141000" />
+      <workItem from="1573381950788" duration="6151000" />
     </task>
     <task id="LOCAL-00001" summary="增加ribbon负载均衡配置">
       <created>1551108529429</created>
@@ -533,15 +503,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573389234780</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="test">
+      <created>1573389578167</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1573389578167</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77066000" />
+    <option name="totallyTimeSpent" value="78076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50075644" side_tool="true" weight="0.6919105" />
@@ -643,13 +619,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/microservice-provider-user-hystrix/src/main/java/com/itmuch/cloud/study/ProviderUserHystrixApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/microservice-hystrix-turbine/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -928,6 +897,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-server1/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-config-client/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
