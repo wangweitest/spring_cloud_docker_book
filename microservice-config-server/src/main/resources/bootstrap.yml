@@ -1,0 +1,2 @@
+encrypt:
+  key: wer  # 设置对称密钥

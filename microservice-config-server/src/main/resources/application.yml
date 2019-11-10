@@ -8,5 +8,5 @@ spring:
       server:
         git:
           uri: https://github.com/wangweitest/spring-cloud-config.git      # 配置Git仓库的地址
-          username: 673209859@qq.com                                                         # Git仓库的账号
-          password: wei13991844348                                                        # Git仓库的密码
+#          username:                                                          # Git仓库的账号
+#          password:                                                         # Git仓库的密码
